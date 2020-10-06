@@ -1,13 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+title: "欢迎来到Isatis's Blog!"
+date: 2020-10-06
+categories:
+  - 其它
+tags:
+  - 博客
+  - 杂谈
 ---
 
 我是Isatis,一个普通的程序员，这是我的博客
 
 爱好唱歌、码代码、羽毛球，欢迎各位一起来交流
-
-先来两首小诗分享给大家：
 
 ### 登高
 > 作者：杜甫
