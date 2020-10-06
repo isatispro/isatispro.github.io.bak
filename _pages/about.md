@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "欢迎来到Isatis 的博客！"
 ---
 
 我是Isatis,一个普通的程序员，这是我的博客
