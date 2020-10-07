@@ -14,7 +14,7 @@ tags:
 
 ## 方法一（推荐）
 其实万能的arch库中是能坚果去的包的，可以直接使用pacman或者yay安装
-![foo](../assets/images/jianguo1.png)
+![](../assets/images/jianguo1.png)
 
 ``` shell
 sudo pacman -S nutstore
